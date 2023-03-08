@@ -1,0 +1,2 @@
+# Pnevmoniya_opka_tomografiyasi_praktikum
+Mohirdev praktikum uchun
